@@ -1226,7 +1226,7 @@ Public Class VentanaJuego
             codigoTimer.Start()
             Return
         End Try
-
+        'aguante milei'
         ' Actualizar TreeView y botones para mostrar los nuevos bits
         ActualizarBitsTreeView()
         ActualizarBotonesMejoras()
